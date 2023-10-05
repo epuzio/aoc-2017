@@ -8,7 +8,7 @@ for line in stdin:
     instructions.append(elements)
 curr_max = 0
 for e in instructions:
-    execute = False #not efficient, delete urself
+    execute = False
     if e[5] == ">":
         execute = registers.get(e[4]) > int(e[6])
     elif e[5] == '<':
