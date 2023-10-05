@@ -1,0 +1,1 @@
+n,nw,ne,se,sw,s,n,n,n,n,n,n,sw,sw,sw,sw,se,se
